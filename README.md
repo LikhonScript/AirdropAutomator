@@ -1,13 +1,20 @@
-# LikhonScripts-AirdropTool  Automate your cryptocurrency airdrops with the LikhonScripts-AirdropTool.
+ Automate your cryptocurrency airdrops with the LikhonScripts-AirdropTool.
 
 This Python script simplifies the process of distributing tokens in batch on the Ethereum blockchain, making it ideal for token creators and project managers.
 
 ## Features - Batch processing of token airdrops. - Easy to use with a clear, colorful console interface. - Supports BSC Testnet and Ethereum Mainnet. - Automated Telegram link opening for community engagement.
 
-## Prerequisites - Python 3.x - `web3`, `eth_account`, `requests`, `pyfiglet`, and `colorama` Python packages. -
+## Prerequisites - Python 3.x - `web3`, `eth_account`, 
+
+`requests`, `pyfiglet`, and `colorama` Python packages. -
+
 An Ethereum wallet with enough ETH to cover gas fees. -
+
 The ABI of the ERC20 token contract.  
-## Installation Clone the repository: ```bash git clone https://github.com/LikhonScripts/AirdropAutomator/ cd LikhonScripts-AirdropTool``
+
+## Installation Clone the repository:
+
+```bash git clone https://github.com/LikhonScripts/AirdropAutomator/ cd LikhonScripts-AirdropTool``
 
 Install required packages:
 
